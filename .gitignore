@@ -1,0 +1,17 @@
+# ==========================================
+# NTC IDE PRO - Professional Gitignore
+# ==========================================
+
+# Ignore all runtime engine temporary data, crash reports, and logs
+IDE/profile-data/*
+
+# Do NOT ignore the folder structure and custom User config files
+!IDE/profile-data/User/
+IDE/profile-data/User/*
+!IDE/profile-data/User/settings.json
+!IDE/profile-data/User/keybindings.json
+
+# Ignore system-specific temporary files
+.DS_Store
+Thumbs.db
+*.log
