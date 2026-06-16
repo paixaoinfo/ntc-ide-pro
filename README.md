@@ -1,5 +1,6 @@
 # 🪐 NTC IDE PRO: The Hyper-Isolated Developer Environment
 
+[🇧🇷 Leia em Português (PT-BR)](README.pt-BR.md)
 ![NTC IDE PRO Preview](preview.png)
 
 An advanced, isolated, and custom-profile distribution of VS Code engineered to operate with zero global system dependencies. Optimized for high-tempo development, custom prompt engineering, and deep terminal synchronization.
