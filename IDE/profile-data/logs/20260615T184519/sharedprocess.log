@@ -1,0 +1,15 @@
+2026-06-15 18:45:38.502 [info] Marked extension as removed anthropic.claude-code-2.1.133-win32-x64
+2026-06-15 18:45:40.239 [info] Deleted marked for removal extension from disk anthropic.claude-code c:\Users\neves\.vscode\extensions\anthropic.claude-code-2.1.133-win32-x64
+2026-06-15 18:46:37.106 [info] Getting Manifest... github.copilot-chat
+2026-06-15 18:46:38.054 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.124.2","date":"2026-06-12T00:34:25.205Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/neves/.vscode/extensions/extensions.json","path":"/c:/Users/neves/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":true}
+2026-06-15 18:46:51.326 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 8706ms.
+2026-06-15 18:46:55.194 [info] Extracted extension to file:///c%3A/Users/neves/.vscode/extensions/github.copilot-chat-0.48.1: github.copilot-chat
+2026-06-15 18:46:56.161 [info] Renamed to c:\Users\neves\.vscode\extensions\github.copilot-chat-0.48.1
+2026-06-15 18:46:56.175 [error] [/c:/Users/neves/.vscode/extensions/github.copilot-chat-0.48.1]: Extension is not compatible with Code 1.119.0. Extension requires: ^1.120.0.
+2026-06-15 18:46:56.377 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/c%3A/Users/neves/.vscode/extensions/extensions.json
+2026-06-15 18:49:21.046 [info] Getting Manifest... sst-dev.opencode
+2026-06-15 18:49:31.068 [info] Installing extension: sst-dev.opencode {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/neves/.vscode/extensions/extensions.json","path":"/c:/Users/neves/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.119.0","date":"2026-05-05T11:23:50-07:00"}}
+2026-06-15 18:49:39.432 [info] Extension signature verification result for sst-dev.opencode: Success. Internal Code: 0. Executed: true. Duration: 3415ms.
+2026-06-15 18:49:39.563 [info] Extracted extension to file:///c%3A/Users/neves/.vscode/extensions/sst-dev.opencode-0.0.13: sst-dev.opencode
+2026-06-15 18:49:39.860 [info] Renamed to c:\Users\neves\.vscode\extensions\sst-dev.opencode-0.0.13
+2026-06-15 18:49:40.157 [info] Extension installed successfully: sst-dev.opencode vscode-userdata:/c%3A/Users/neves/.vscode/extensions/extensions.json

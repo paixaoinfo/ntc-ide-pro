@@ -1,0 +1,20 @@
+2026-06-15 18:45:55.802 [info] Extension host with pid 21076 started
+2026-06-15 18:45:55.802 [info] Skipping acquiring lock for c:\Users\neves\Documents\ntc-ide-pro\IDE\profile-data\User\workspaceStorage\b3d40bc67c774fd080abc69f64528892.
+2026-06-15 18:45:55.882 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-06-15 18:45:56.374 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-06-15 18:45:56.751 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-15 18:45:56.794 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-15 18:45:56.996 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-15 18:45:57.888 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-06-15 18:46:00.103 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2026-06-15 18:46:00.363 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-06-15 18:46:02.860 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-06-15 18:46:03.403 [info] Eager extensions activated
+2026-06-15 18:46:03.545 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-06-15 18:46:03.565 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-06-15 18:46:38.000 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-06-15 18:46:40.785 [info] ExtensionService#_doActivateExtension Anthropic.claude-code, startup: false, activationEvent: 'onStartupFinished'
+2026-06-15 18:46:46.014 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-06-15 18:48:23.163 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-06-15 19:05:04.803 [info] Extension host terminating: received terminate message from renderer
+2026-06-15 19:05:04.886 [info] Extension host with pid 21076 exiting with code 0

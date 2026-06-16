@@ -1,0 +1,16 @@
+2026-06-15 18:45:24.912 [info] StorageMainService: creating application shared storage
+2026-06-15 18:45:24.936 [info] StorageMainService: creating application shared storage with local application storage fallback
+2026-06-15 18:45:25.008 [info] CrossAppIPCService: connecting to peer
+2026-06-15 18:45:28.996 [info] [shared storage] Creating shared storage database at 'c:\Users\neves\.vscode-shared\sharedStorage\state.vscdb' (wasCreated: false)
+2026-06-15 18:45:28.996 [info] [shared storage] Initializing fallback application storage (type: local, path: c:\Users\neves\Documents\ntc-ide-pro\IDE\profile-data\User\globalStorage\state.vscdb)
+2026-06-15 18:45:30.972 [info] [shared storage] Fallback application storage initialized with 3 items
+2026-06-15 18:45:31.034 [info] update#setState idle
+2026-06-15 18:46:01.840 [info] update#setState checking for updates
+2026-06-15 18:46:02.103 [info] update#setState downloading
+2026-06-15 18:46:07.262 [info] update#setState downloading
+2026-06-15 18:46:10.853 [info] update#setState downloading
+2026-06-15 18:46:23.332 [info] update#setState downloading
+2026-06-15 18:46:25.315 [info] update#setState downloading
+2026-06-15 18:46:34.812 [info] update#setState downloaded
+2026-06-15 18:51:55.747 [info] update#setState ready
+2026-06-15 19:05:04.906 [info] Extension host with pid 21076 exited with code: 0, signal: unknown.

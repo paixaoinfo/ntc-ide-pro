@@ -1,0 +1,27 @@
+2026-06-15 18:45:33.304 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 93ms.
+2026-06-15 18:45:40.607 [info] Started local extension host with pid 21076.
+2026-06-15 18:45:41.797 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-15 18:45:49.967 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-15 18:45:52.541 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-15 18:45:52.721 [warning] Creation of workbench contribution 'workbench.contrib.startupPageRunner' took 113ms.
+2026-06-15 18:45:55.938 [info] [perf] Render performance baseline is 50ms
+2026-06-15 18:45:59.072 [info] Extension host (LocalProcess pid: 21076) is unresponsive.
+2026-06-15 18:46:00.301 [info] Extension host (LocalProcess pid: 21076) is responsive.
+2026-06-15 18:46:34.833 [info] Auto updating outdated extensions. github.copilot-chat
+2026-06-15 18:46:44.570 [info] Extension host (LocalProcess pid: 21076) is unresponsive.
+2026-06-15 18:46:47.901 [info] Extension host (LocalProcess pid: 21076) is responsive.
+2026-06-15 18:46:47.902 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2026-06-15 18:46:53.007 [info] UNRESPONSIVE extension host: starting to profile NOW
+2026-06-15 18:49:21.032 [error] Cancelled: Canceled: Canceled
+    at ctt.getLatestRawGalleryExtension (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:54077)
+    at async ctt.getLatestRawGalleryExtensionWithFallback (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:52581)
+    at async ctt.getLatestGalleryExtension (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:40853)
+    at async vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:39941
+    at async Promise.all (index 0)
+    at async ctt.getExtensionsUsingResourceApi (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:39895)
+    at async ctt.getExtensions (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:38357)
+    at async z6.getExtensions (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:3645:21107)
+    at async X5t.getInstallableRecommendations (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:3641:20963)
+    at async X5t.getAllRecommendationsModel (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:3641:24604)
+    at async X5t.queryGallery (vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:3641:16684)
+    at async vscode-file://vscode-app/c:/Users/neves/AppData/Local/Programs/Microsoft%20VS%20Code/8b640eef5a/resources/app/out/vs/workbench/workbench.desktop.main.js:3641:5963

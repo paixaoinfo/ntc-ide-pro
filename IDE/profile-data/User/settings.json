@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+    "terminal.integrated.defaultProfile.windows": "NTC Shell",
+    "terminal.integrated.profiles.windows": {
+        "NTC Shell": {
+            "path": "pwsh.exe",
+            "args": ["-NoExit", "-Command", ". $PROFILE"]
+        }
+    },
+    "workbench.activityBar.location": "default",
+    "editor.fontFamily": "'MesloLGS NF', 'Consolas', monospace",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "window.title": "NTC IDE PRO - Core [by Leandro Paixão]"
+}
